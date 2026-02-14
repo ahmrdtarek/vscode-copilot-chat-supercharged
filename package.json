@@ -4167,7 +4167,7 @@
 		"zeromq": "github:rebornix/zeromq.js#a19e8e373b3abc677f91b936d3f00d49b1b61792"
 	},
 	"dependencies": {
-		"@anthropic-ai/claude-code": "^1.0.120",
+		"@anthropic-ai/claude-code": "^2.1.7",
 		"@anthropic-ai/sdk": "^0.63.0",
 		"@humanwhocodes/gitignore-to-minimatch": "1.0.2",
 		"@microsoft/tiktokenizer": "^1.0.10",
@@ -4184,7 +4184,7 @@
 		"isbinaryfile": "^5.0.4",
 		"jsonc-parser": "^3.3.1",
 		"lru-cache": "^11.1.0",
-		"markdown-it": "^14.1.0",
+		"markdown-it": "^14.1.1",
 		"minimatch": "^10.0.3",
 		"undici": "^7.11.0",
 		"vscode-tas-client": "^0.1.84",
